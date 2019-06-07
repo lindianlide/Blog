@@ -1,0 +1,37 @@
+前沿动态
+1、Angular8发布（https://www.oschina.net/news/107068/version-8-of-angular）
+2、Typescript3.5发布（https://www.oschina.net/news/107096/typescript-3-5-released）
+3、Serverless掀起新的前端技术变革（https://www.infoq.cn/article/b2cmAUxRChV-tuZbFQiP）
+技术大会
+1、第九期杭州 NodeParty（2019.04.13）
+热门文章
+1、深入理解TypeScript（https://jkchao.github.io/typescript-book-chinese/）
+2、clean-code-typescript（https://labs42io.github.io/clean-code-typescript/）
+工具推荐
+1、VS Code 插件：Partial Diff
+2、Uform（https://github.com/alibaba/uform）
+
+
+前沿动态
+1、Angular8发布（https://www.oschina.net/news/107068/version-8-of-angular）
+     Angular8发布了，此版本主要更新内容如下：默认启用差异化加载、新的渲染引擎Ivy、使用动态导入进行路由配置、对Web Worker的支持、改进从AngularJS迁移到新版本的过程、性能提升等。
+2、Typescript3.5发布（https://www.oschina.net/news/107096/typescript-3-5-released）
+     TypeScript 3.5 发布了，此版本在编译器、语言和编辑器工具上带来了一些新特性。TypeScript 3.5 引入了几种对于 type 检查和增量构建的优化，使得速度大幅提升。内置了一个 Omit type，用于创建一个省略某些属性的对象。改进了联合type中的多余属性检查。使用新的 --allowUmdGlobalAccess flag。对泛型构造函数的推导操作整合了起来。新增了一个功能 Smart Select，它为编辑器提供了一个 API，以基于语法的方式扩展文本选择。
+3、Serverless掀起新的前端技术变革（https://www.infoq.cn/article/b2cmAUxRChV-tuZbFQiP）
+     最近关于 Serverless 的讨论越来越多。看似与前端关系不大的 Serverless，其实早已和前端有了渊源，并且将对前端开发模式产生变革性的影响。本文来自阿里云前端工程师蒋航在 QCon 北京 2019 的分享，他从前端开发模式的演进、基于 Serverless 的前端开发案例以及 Serverless 开发最佳实践等方面，与大家探讨 Serverless 中的前端开发模式。
+
+技术大会
+1、第九期杭州 NodeParty（2019.04.13）
+包含中心大数据陈旭的主题分享
+https://github.com/NodeParty-China/Node-Party
+
+热门文章
+1、深入理解TypeScript（https://jkchao.github.io/typescript-book-chinese/）
+     《TypeScript Deep Dive》开源书的中文翻译版
+2、clean-code-typescript（https://labs42io.github.io/clean-code-typescript/）
+      用 TypeScript 描述的《代码整洁之道》。中文翻译版https://github.com/beginor/clean-code-typescript
+工具推荐
+1、VS Code 插件：Partial Diff
+      根据选中范围灵活 Diff 代码，实乃重构利器！
+2、Uform（https://github.com/alibaba/uform）
+       阿里 UForm 面向复杂场景的高性能表单解决方案
