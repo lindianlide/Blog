@@ -2,15 +2,22 @@
 1、Angular8发布（https://www.oschina.net/news/107068/version-8-of-angular）
 2、Typescript3.5发布（https://www.oschina.net/news/107096/typescript-3-5-released）
 3、Serverless掀起新的前端技术变革（https://www.infoq.cn/article/b2cmAUxRChV-tuZbFQiP）
+4、Vue RFC引发的争议（https://juejin.im/post/5d0f64d4f265da1b67211893）
+5、Node 12值得关注的新特性（https://juejin.im/post/5cbfdeca6fb9a032514baf0c）
 技术大会
 1、第九期杭州 NodeParty（2019.04.13）
+2、第三届Vue.js开发者大会（2019.06.08）
+3、GMTC全球大前端技术大会（2019.06.20 - 2019.06.21）
 热门文章
 1、深入理解TypeScript（https://jkchao.github.io/typescript-book-chinese/）
 2、clean-code-typescript（https://labs42io.github.io/clean-code-typescript/）
+3、angular中使用rxjs最佳实践（https://blog.strongbrew.io/rxjs-best-practices-in-angular/）
+4、Typescript transform处理Rxjs取消订阅（https://blog.angularindepth.com/having-fun-with-angular-and-typescript-transformers-2c2296845c56）
 工具推荐
 1、VS Code 插件：Partial Diff
 2、Uform（https://github.com/alibaba/uform）
-
+3、RxDB（https://github.com/pubkey/rxdb）
+4、FileSaver（https://github.com/eligrey/FileSaver.js）
 
 前沿动态
 1、Angular8发布（https://www.oschina.net/news/107068/version-8-of-angular）
@@ -19,19 +26,34 @@
      TypeScript 3.5 发布了，此版本在编译器、语言和编辑器工具上带来了一些新特性。TypeScript 3.5 引入了几种对于 type 检查和增量构建的优化，使得速度大幅提升。内置了一个 Omit type，用于创建一个省略某些属性的对象。改进了联合type中的多余属性检查。使用新的 --allowUmdGlobalAccess flag。对泛型构造函数的推导操作整合了起来。新增了一个功能 Smart Select，它为编辑器提供了一个 API，以基于语法的方式扩展文本选择。
 3、Serverless掀起新的前端技术变革（https://www.infoq.cn/article/b2cmAUxRChV-tuZbFQiP）
      最近关于 Serverless 的讨论越来越多。看似与前端关系不大的 Serverless，其实早已和前端有了渊源，并且将对前端开发模式产生变革性的影响。本文来自阿里云前端工程师蒋航在 QCon 北京 2019 的分享，他从前端开发模式的演进、基于 Serverless 的前端开发案例以及 Serverless 开发最佳实践等方面，与大家探讨 Serverless 中的前端开发模式。
-
+4、Vue RFC引发的争议（https://juejin.im/post/5d0f64d4f265da1b67211893）
+      Vue 的创建者尤雨溪发布了一个请求意见稿（RFC），用于在即将发布的 Vue 3.0 中使用基于函数的方式编写 Vue 组件。往常积极友好的 VueJS 社区陷入了一场激烈的战争。
+5、Node 12值得关注的新特性（https://juejin.im/post/5cbfdeca6fb9a032514baf0c）
+       Node.js 12 如约而至，该版本带来了诸如：V8 更新带来好多不错的特性，HTTP 解析速度提升，启动速度大幅提升，更好的诊断报告和堆分析工具，ESM 模块更新等。
 技术大会
 1、第九期杭州 NodeParty（2019.04.13）
 包含中心大数据陈旭的主题分享
 https://github.com/NodeParty-China/Node-Party
+2、第三届Vue.js开发者大会（2019.06.08）
+        https://vue.w3ctech.com/
+3、GMTC全球大前端技术大会（2019.06.20 - 2019.06.21）
+      https://gmtc.infoq.cn/2019/beijing/schedule/?utm_source=infoq&utm_medium=header_graybar
 
 热门文章
 1、深入理解TypeScript（https://jkchao.github.io/typescript-book-chinese/）
      《TypeScript Deep Dive》开源书的中文翻译版
 2、clean-code-typescript（https://labs42io.github.io/clean-code-typescript/）
       用 TypeScript 描述的《代码整洁之道》。中文翻译版https://github.com/beginor/clean-code-typescript
+3、angular中使用rxjs最佳实践（https://blog.strongbrew.io/rxjs-best-practices-in-angular/）
+     本文是关于在Angular应用程序中使用RxJS编写反应式应用程序时的注意事项。
+4、Typescript transform处理Rxjs取消订阅（https://blog.angularindepth.com/having-fun-with-angular-and-typescript-transformers-2c2296845c56）
+     本文提供示例，尝试使用typescript transform来解决Rxjs手动取消订阅的问题。
 工具推荐
 1、VS Code 插件：Partial Diff
       根据选中范围灵活 Diff 代码，实乃重构利器！
 2、Uform（https://github.com/alibaba/uform）
        阿里 UForm 面向复杂场景的高性能表单解决方案
+3、RxDB（https://github.com/pubkey/rxdb）
+       RxDB 是一个 JavaScript 客户端NoSQL数据库，主要用于浏览器、NodeJS、Electron、Cordova、React-Native 以及其他任何 JavaScript 运行环境
+4、FileSaver（https://github.com/eligrey/FileSaver.js）
+       有时我们需要在浏览器上生成文件并保存到本地，这个借助 FileSaver.js 就可以很方便地实现。FileSaver.js是一款基于HTML5完成文件保存插件，它可以帮你直接从网页中导出多种格式文件
